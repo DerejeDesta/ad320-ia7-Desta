@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+}
+body#route1Body {
+  padding: 80px;
+  font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+}
+a {
+  color: #00B7FF;
+}
+
+#div1 {
+	
+	width:80%;
+	height:800px;
+	background:red;
+}
